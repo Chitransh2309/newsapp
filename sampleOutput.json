@@ -1,0 +1,149 @@
+{
+    "status": "ok",
+    "totalResults": 11,
+    "articles": [
+      {
+        "source": {
+          "id": "cbc-news",
+          "name": "CBC News"
+        },
+        "author": "CBC News",
+        "title": "In confidential memo, LeBlanc asks for ideas on how to fight back against U.S. protectionism | CBC News",
+        "description": "Finance Minister Dominic LeBlanc has asked his fellow ministers to draw up a list of ideas he can deploy in the planned spring budget to fight back against U.S. protectionism, a threat that shows no signs of going away even if Canada secured a pause to Presid…",
+        "url": "http://www.cbc.ca/news/politics/leblanc-memo-budget-us-protectionism-1.7450164",
+        "urlToImage": "https://i.cbc.ca/1.7450187.1738693697!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_1180/cabinet-retreat-20250120.JPG?im=Resize%3D620",
+        "publishedAt": "2025-02-04T19:22:22.7759225Z",
+        "content": "Finance Minister Dominic LeBlanc has asked his fellow ministers to draw up a list of ideas he can deploy in the planned spring budget to fight back against U.S. protectionism, a threat that shows no … [+4516 chars]"
+      },
+      {
+        "source": {
+          "id": "bloomberg",
+          "name": "Bloomberg"
+        },
+        "author": "Muyao Shen",
+        "title": "Trump’s Crypto Project Appears to Have Bought Ether After Tariff Meltdown",
+        "description": "World Liberty Financial, the decentralized-finance project linked to Donald Trump’s family, appears to have added tens of million of dollars worth of the Ether cryptocurrency after crypto markets crashed during the weekend as the US president briefly imposed …",
+        "url": "https://www.bloomberg.com/news/articles/2025-02-04/trump-s-crypto-project-appears-to-have-bought-ether-after-tariff-meltdown",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipLzK2UROcGA/v1/1200x800.jpg",
+        "publishedAt": "2025-02-04T19:13:12+00:00",
+        "content": "World Liberty Financial, the decentralized-finance project linked to Donald Trumps family, appears to have added tens of million of dollars worth of the Ether cryptocurrency after crypto markets cras… [+427 chars]"
+      },
+      {
+        "source": {
+          "id": "the-hill",
+          "name": "The Hill"
+        },
+        "author": "The Hill Staff",
+        "title": "Watch: Cassidy discusses vote to advance RFK Jr.",
+        "description": "Sen. Bill Cassidy (R-La.) explained his vote to advance Robert F. Kennedy Jr.’s nomination to serve as Health and Human Services secretary on the Senate floor Tuesday. Cassidy cast the key vote earlier during a Senate Finance Committee hearing. The nomination…",
+        "url": "https://thehill.com/video-clips/5125559-watch-live-cassidy-to-discuss-vote-to-advance-rfk-jr/",
+        "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/02/cassidybill_kennedyjrrobert_013025gn01_w.jpg?w=1280",
+        "publishedAt": "2025-02-04T16:52:43Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "breitbart-news",
+          "name": "Breitbart News"
+        },
+        "author": "Hannah Knudsen",
+        "title": "Robert F. Kennedy Jr's Confirmation Clears Committee in 14-13 Vote",
+        "description": "Robert F. Kennedy Jr., President Donald Trump's nominee for Health and Human Services Secretary, passed through the Senate Finance Committee.",
+        "url": "https://www.breitbart.com/politics/2025/02/04/robert-f-kennedy-jrs-confirmation-clears-committee-in-14-13-vote/",
+        "urlToImage": "https://media.breitbart.com/media/2025/02/53514116391_6dc58ea2ab_k-640x335.jpg",
+        "publishedAt": "2025-02-04T16:09:44Z",
+        "content": "Robert F. Kennedy Jr., President Donald Trump’s nominee for Health and Human Services Secretary, passed through the Senate Finance Committee on Tuesday in a 14-13 vote.\r\nSenators in the committee vot… [+2579 chars]"
+      },
+      {
+        "source": {
+          "id": "les-echos",
+          "name": "Les Echos"
+        },
+        "author": "Stéphane Loignon, Sébastien Dumoulin",
+        "title": "Budget : pourquoi l'objectif de déficit de 5,4 % ne tient qu'à un fil",
+        "description": "Le projet de loi de finances du gouvernement Bayrou tient compte de la révision à la baisse de la croissance, attendue à 0,9 % en 2025. Il suffirait d'un rien pour que le budget dérape.",
+        "url": "https://www.lesechos.fr/economie-france/budget-fiscalite/budget-pourquoi-lobjectif-de-deficit-de-54-ne-tient-qua-un-fil-2146680",
+        "urlToImage": "https://media.lesechos.com/api/v1/images/view/67a23b14eff5de3285304bdb/1280x720/0140609223642-web-tete.jpg",
+        "publishedAt": "2025-02-04T16:06:39Z",
+        "content": "Bercy n'a que 30 millions d'euros de marge pour tenir son objectif 2025 d'un déficit à 5,4 % du PIB. Le projet de loi de finances (PLF) modifié par la commission mixte paritaire et mis à jour avec le… [+4724 chars]"
+      },
+      {
+        "source": {
+          "id": "msnbc",
+          "name": "MSNBC"
+        },
+        "author": "Clarissa-Jan Lim",
+        "title": "Senate Finance Committee advances RFK Jr.'s nomination for health secretary",
+        "description": "Louisiana Republican Sen. Bill Cassidy, a physician, was the key vote for Kennedy.",
+        "url": "https://www.msnbc.com/top-stories/latest/rfk-jr-senate-finance-committee-vote-health-secretary-nomination-rcna190575",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-01/250129-robert-kennedy-mn-1040-1ce6e3.jpg",
+        "publishedAt": "2025-02-04T15:28:52Z",
+        "content": "The Senate Finance Committee voted along party lines Tuesday to advance Robert F. Kennedy Jr.'s nomination for health secretary to the full Senate, putting the longtime anti-vaccine activist a step c… [+1724 chars]"
+      },
+      {
+        "source": {
+          "id": "the-hill",
+          "name": "The Hill"
+        },
+        "author": "The Hill Staff",
+        "title": "Watch: Senate votes on RFK Jr. nomination for HHS secretary",
+        "description": "The Senate Finance Committee met Tuesday morning to vote on whether to advance Robert F. Kennedy Jr.’s nomination to head the Department of Health and Human Services (HHS). Kennedy has faced an uphill battle after being tapped by President Trump to helm HHS. …",
+        "url": "https://thehill.com/video-clips/5125017-watch-live-robert-f-kennedy-jr-hhs-senate-finance-committee-vote/",
+        "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/01/IMG_5440.jpeg?w=1280",
+        "publishedAt": "2025-02-04T14:36:18Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "AMANDA SEITZ, STEPHEN GROVES",
+        "title": "RFK Jr. faces key first vote to be health secretary Tuesday",
+        "description": "Robert F. Kennedy Jr. is set to find out if he has cleared the first hurdle to become the nation's top health official when the Senate Finance Committee votes on his nomination. The vote on the controversial environmental lawyer turned public health critic is…",
+        "url": "https://apnews.com/article/trump-cabinet-kennedy-rfk-health-secretary-vote-842455e48b1f9b79fb2312937dff29f6",
+        "urlToImage": "https://dims.apnews.com/dims4/default/fb2d534/2147483647/strip/true/crop/6447x3626+0+336/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F76%2F46%2Ff5db7aa5af731efb2da317d0e5f3%2Fbc11833dafd348feb3dfed6cec449d4a",
+        "publishedAt": "2025-02-04T11:23:24Z",
+        "content": "WASHINGTON (AP) Robert F. Kennedy Jr., the controversial environmental lawyer turned public health critic, is set to find out on Tuesday if he has cleared the first hurdle to become the nations top h… [+4875 chars]"
+      },
+      {
+        "source": {
+          "id": "msnbc",
+          "name": "MSNBC"
+        },
+        "author": "Dr. Patricia Wells",
+        "title": "Senators supporting RFK Jr. for HHS would push vaccination rates even lower",
+        "description": "As Human and Health Services Robert F. Kennedy sat before the Senate Finance committee, his talk about vaccines made pediatricians like me fume.",
+        "url": "https://www.msnbc.com/opinion/msnbc-opinion/rfk-jr-vaccines-senate-committee-vote-rcna190033",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-01/250130-vaccine-ch-1410-7b7765.jpg",
+        "publishedAt": "2025-02-04T11:00:00Z",
+        "content": "So many parents refusing vaccines for the children I see in my examination room have been encouraged to do so by Robert F. Kennedy Jr., the charlatan President Donald Trump has picked to take the rei… [+9452 chars]"
+      },
+      {
+        "source": {
+          "id": "lequipe",
+          "name": "L'equipe"
+        },
+        "author": "L'EQUIPE",
+        "title": "Marseille dans un nouveau monde après avoir intégré la Ligue Magnus",
+        "description": "Les Spartiates de Marseille ont rejoint la Ligue Magnus, jeudi. Une grande première. Le club avancera avec prudence. Il est solide, en termes de structures et de finances, mais irrégulier sur le plan sportif. Objectifs : se renforcer et assurer le maintien.",
+        "url": "https://www.lequipe.fr/Hockey-sur-glace/Actualites/Marseille-dans-un-nouveau-monde-apres-avoir-integre-la-ligue-magnus/1401523",
+        "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/les-marseillais-vont-decouvrir-la-ligue-magnus-c-matteoli-mouhanad-spartiates-de-marseille-d-r/1500000001796012/101:283,1675:1332-640-427-75/ee3a9.jpg",
+        "publishedAt": "2023-06-08T14:48:14+00:00",
+        "content": "La NHL a ses franchises de Californie et de Floride, mais la Ligue Magnus a aussi son coin de mer et de soleil. Après Nice (en 2016) et Anglet, au tour de Marseille de rejoindre le plus haut niveau d… [+4342 chars]"
+      },
+      {
+        "source": {
+          "id": "liberation",
+          "name": "Libération"
+        },
+        "author": "Elsa Maudet",
+        "title": "Précarité énergétique : «Les journées où il pleut tout le temps, c’est un peu l’enfer»",
+        "description": "Comme 3,5 millions de ménages français, Valérie et David peinent à combattre l'humidité et les fuites dans leur maison. Pour financer les travaux, ils sont accompagnés par une association spécialisée.",
+        "url": "http://www.liberation.fr/france/2021/02/02/precarite-energetique-les-journees-ou-il-pleut-tout-le-temps-c-est-un-peu-l-enfer_1819030",
+        "urlToImage": "https://medias.liberation.fr/photo/1375474-2021-02-margueritebornhauser-compiegnes-10jpg.jpg?modified_at=1612265502&amp;picto=fb&amp;ratio_x=191&amp;ratio_y=100&amp;width=1080",
+        "publishedAt": "2021-02-02T12:49:24Z",
+        "content": "Search\r\nDirect\r\nUser\r\n100\r\nZoom\r\nQuiz\r\n?\r\nLibération Diamond\r\nclock\r\nxml\r\nnetvibes\r\nlive\r\nanciens-numeros\r\ndata\r\ndesintox\r\ndiapo\r\nedito\r\nelection-2017\r\nelection\r\nessentiel\r\ngenerique\r\nidee\r\njo\r\nnext\r… [+467 chars]"
+      }
+    ]
+  }
